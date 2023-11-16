@@ -1,3 +1,7 @@
+## Popular Blogs
+- [Andrej Karpathy](https://karpathy.ai/)
+
+
 ## Testing Framework
 - [Langtest](https://github.com/JohnSnowLabs/langtest)
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
